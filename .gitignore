@@ -1,0 +1,11 @@
+# Save data and OS files
+Documents/
+.DS_Store
+
+# Build files & Executables
+*.exe
+*.o
+*.obj
+*.dll
+bin/
+build/
