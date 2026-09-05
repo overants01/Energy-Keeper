@@ -1,5 +1,0 @@
-{
-    "scripts": {
-        "start": "g++ -std=c++17 main.cpp -o game -I/opt/homebrew/include -L/opt/homebrew/lib -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio && ./game"
-    }
-}
